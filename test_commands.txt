@@ -1,0 +1,6 @@
+Teach -R G = "a"
+Teach -R S = "b"
+Teach -L V = "c"
+Teach G = true
+Teach S = true
+Teach S&G -> V
